@@ -108,27 +108,27 @@ I am a junior Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.
 <!-- Record the number of days of continuous code submission -->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=param-sahai&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
 
 <!-- metrics basic information -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/param-sahai/param-sahai/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub Trophy🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=tarunbisht-24&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=param-sahai&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 
 <br>
 
 <!-- GitHub Statistics -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tarunbisht-24&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=param-sahai&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param-sahai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <br>
@@ -140,7 +140,7 @@ I am a junior Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&bg_color=FF000000&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=param-sahai&theme=dracula&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -166,17 +166,15 @@ I am a junior Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/param-sahai/param-sahai/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 </div>
-<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/src/coffee.png" align="right" height="275" />
+<img src="https://github.com/param-sahai/param-sahai/raw/main/src/coffee.png" align="right" height="275" />
 
 ## Find me around the web :globe_with_meridians:
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tarunbisht_24/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/)
-[![iTunes Badge](https://img.shields.io/badge/-iTunes-FF2B4B?style=flat&logo=iTunes&logoColor=white)](https://music.apple.com/in/playlist/duh/pl.u-EdAVklrIDdxoprY)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/saymyname#1955/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClrQwjZz-5cg7EsXJGKKnaA)
 
 ---
 
@@ -186,10 +184,10 @@ I am a junior Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.
 
 <p>Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [Tarun Bisht](https://github.com/tarunbisht-24)
+⭐️ From [Param Sahai](https://github.com/param-sahai)
 <br>
 <br>
-[![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits) ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
+[![Profile last updated](https://img.shields.io/github/last-commit/param-sahai/param-sahai/main?label=Last%20updated&style=flat)](https://github.com/param-sahai/param-sahai/commits) ![Profile Views](https://komarev.com/ghpvc/?username=param-sahail&color=blue)
 
 <!-- Snake code contribution diagram -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/param-sahai/param-sahai/contribution-snake/github-contribution-grid-snake.svg" /></div>

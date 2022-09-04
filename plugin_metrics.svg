@@ -136,10 +136,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.8333363487348" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="340.8333363487348" y="0" width="66.66495391863482" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="407.4982902673696" y="0" width="38.82450001628317" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.32279028365275" y="0" width="13.677209716347214" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.0558517170141" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="341.0558517170141" y="0" width="66.54047299151968" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="407.59632470853376" y="0" width="38.75200450743293" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.34832921596666" y="0" width="13.651670784033286" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -151,8 +151,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>204 kB</div>
-                                <div>74.09%</div>
+                                <div>205 kB</div>
+                                <div>74.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -164,7 +164,7 @@
                             </div>
                             <small>
                                 <div>23.3 kB</div>
-                                <div>8.44%</div>
+                                <div>8.42%</div>
                             </small>
                         </div>
                     </section>
@@ -178,7 +178,7 @@
                             </div>
                             <small>
                                 <div>40 kB</div>
-                                <div>14.49%</div>
+                                <div>14.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -303,8 +303,8 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -331,11 +331,6 @@
                             <span class="value">3</span>
                             <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
-                        </div>
-                        <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            22
                         </div>
                     </div>
                 </div>
@@ -403,13 +398,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 19 days
+                            Current streak 20 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 19 days
+                            Best streak 20 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2402,6 +2397,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z"/>
                             </g>
+                            <g transform="translate(-10.2, 11.333333333333332)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2423,7 +2423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>param-sahai/Strivers-SDE-Sheet</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">In this repo, I'll be solving questions on daily basis from the famous Striver's SDE Sheet.</div>
@@ -2470,7 +2470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>param-sahai/Competitive-Programming</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2621,13 +2621,8 @@
                             <div class="entry">
                                 <span class="value">2</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                21
-                                <div class="bottom">Aug.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 22
+                                <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2689,6 +2684,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 3
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                4
                             </div>
                         </div>
                     </section>
@@ -2698,13 +2698,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                21
-                                <div class="bottom">Aug.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 22
+                                <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2766,6 +2761,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 3
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                4
                             </div>
                         </div>
                     </section>
@@ -2776,12 +2776,13 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    2 followers
+                    3 followers
                 </h2>
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYIBwQFA//EADIQAAEDAwIEAwQLAAAAAAAAAAECAwQABREGIQcSIkExUWETFEJxCCMyQ2JygYKRwtH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EAB0RAQEAAgIDAQAAAAAAAAAAAAABAxECEhMhMTL/2gAMAwEAAhEDEQA/AKfnS2obBcdUAKTrneZ0hopbXyqUegNjGR6719tbSHPcXnW08/IfDsEjck/xSo7f4LLb8t57DbQPNkYwEZP+Vuqti4S+6YkTZ0dQcbfUsfEk+Xp4Ux2u8IkNtknnSr4sYI+YrHJfEO2JiCY3OZ93RhkudlukjIx5AZ38K9pGo5LNriOwCHo7w9o27y7EHfv2OSaFOeLt+Wx8o8hRXlWa4Ift7alLytPSrpxuKKxzdHDLaH1iXACg5BB8qnPjfd2be0/b7dLaW446GyW1BwqZLZ5wsZOCDyYPz9a1n6RCpUXhxclwYTskP8rb6m/uUZyXD6bY/Wo2qkh8ds2YNHw3b1fbZZnpaGYDsoLdLjgQhA+M5PfGcVYDNhiNxGmohb9gG0ISFNhYIAwPDHaofrQeH+ode3G5RLFpi6TVKVhCW1EONstjbPUDypAos2fdnyqR00u43IXIQrchpmJMVFzLQQVlKUdSdh0HO1FPljiP260RIkqQubIabCXJCsJLiu5wPDeipl8td6kpWnkWAUqG4Pesc4lcGdISYkm6xYz9ukjrKYbgQ2o/kIIH7cUUUJM10PwosN7u6WJsm5ezz4IdQn+tUdpHSNj0jDVFsEBqKhQytf2nHD+JR3NFFNTUxUUUUpX/2Q==" width="36" height="36" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAIAAABuYg/PAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEEUlEQVRIie2WX0xaVxzHfbJp0idesVt8s09t0jTpkmbBdBeCpFGzNFzFbQhcJ3rhXqw4a6fOCd4aJ4LadaauBeWig+BanVF6L8VSw9+2WLvUNF0XrUgd/0yamHRI40JvRxjzz4Bu2UOT78PJOb/z/dxzfud3z8nbvgv9Z8p7B7v7bhu3czogXtHDUd6wrBT7tERZtavCBD/X0/i7U3gFLYUBYG/J2EDMKcwVhreU70uCAUB+hnn/WmVOsDDBlzD3JyEsJtW4M8jNHuYaAimX1rOl0j8d06T+nOf5vpVqN3CYm3cEWcLmBriUy9zgF6s/feMYujCFIcb2uh/axJMYYhtoemLGwtb+IKFp4LCpyAVtZZaw+9cqKYufDZ1ha/8eGqiroiLnv+VmCfvV/AkMABc+PuPVKobkMqVQfLkBfYAnVhO29j/AscsNqFIoHpLLRlrgN5+F87KERUk+DAAfFn5Ez2ewjnH5LIh1lFtwgHGEBhyhAQUHGKyjrzuPcen5jA8OF8MA8NvsZ1nCYg7RV2C5GpYU0ZgB50Qngi1M4QI2JCuvlpVXC9iQbwrvRLGAY6KIxlRW1zSXcWIOUTawTbLWr0OWxr52X1UU0Zir8+aWWoVnYlTEqVFLpGqJVMSpcZtHW2oVq/PmIhrTfVWx/CPm1yGbZG2GMA+0NoL4tWjIorqnUxYeOv3Ygj+zG5/ZjWUneYMoMogiZSd5VM9jC1546PS9EWXIovJr0bURZNuTCSzugvzaBCxo6Q2RmopTID2fQek4nb1k6lky9Ryns5OdFafAEKkJWnr9WtSvReKuDLcxaIQTsJmesLU/RGoeGbsXDRcXDdiKTh6xXYrYLq3oGhcN2KLh4iNjd4jUJApupicxxQhnnLO4C4perw9NK9JKan2ya03fuKZvXJ/sShsKTSui1+t3W9b+P+KXjnN7l3OqXjrO5XafeaENW3fSznGlE29vCsz2BWb79G1y+3cdyaENW/e2N+fLc8sNR6x9lOOMqvVEQcn7B4vfO1h84nDJdO+XVH/E2rfl3jVVGcAS1e2SRm6p3iSG1Pj0XT59F3UoEqRbqphL+jbfjXGP+IW9I0yq/5InUv3C3hH3iP+VR+r6OBIYP//c1Pbc1BYYP78+jmQ0Pe8fxr3yin5xVj/FE8WX1FMcfuKsfuUVvR1YzCtacPD1t6uaSVBCgD59fSrMp6+XEGAzCepvVy04+LH9qHvBVlyCdmuFhACT8uB1qTAPXpc62m6tWHFl9SwIugVNKUaUxszCVNiYWZgW0ESAQbcgY9jwHC/NSEKA0pvgDRO0rEWWtcgNEyS9mR4gIcDhOV5msC2vCP2bSypyR4zktVAC3NoleTvDNjzp+5ORNjw7v453hkVzg0X/D7A/ACoV8ouMds+PAAAAAElFTkSuQmCC" width="36" height="36" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QALxAAAQMDAgMHAwUBAAAAAAAAAQIDBAAFEQYhEhNRByIxQWFxgRQVkQgWIyRCsv/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAIhEAAgEDAgcAAAAAAAAAAAAAAAECAxESBBMUITEyQVGB/9oADAMBAAIRAxEAPwB+sOb7oHxVTqbXlp0s80xNec+pcGeU0MlI6mrSOFY4lbClP2gJiSr7NWksyHHilrPL5g2AAGc5GDnwpevPFcg1CluOw2INxZvFuanxF81h0ZBJ3+ahyVjJztUXRlr+w6ThwlhYdwXHArxBJzj42HxXSUdzW4N+TFRJdCGtxri8DRXFw980UUCKfWmvH7zeXIjL62rekJQGUq2JxuT1rMX1xx6181mDcXFtR3N2h/GTtwEnoMk+tR9Y2xWmpv3BsOsy23wh3iwtLZKPMEe1EFy9Xy4RJH1DybXGU26++tzlNBpsgkdDsPAZqRF3nkzpXJLS2Vkbjso7QpkXRjjN7hz5DsdzEcls99PQk9CD+fSta9r6O5HjuIhOFxxJ5jZVjlkeWcbj1pfMBOrocwabdZLCJAby6TxuurI748gjer/U+l5NisonFhuahlsc8RXVhaMYyR6eNOKUmvRDqYJneZ2grS8QiFDxj/U8Z/5orHWiXFmRlupRKaBXgAyE77Dfwoom4wGBadp8g3C+vRpDbfJktrS4EpxnhAwfekXe9U3WbCat65HBDVsW2xwggDAHtRRS9JLekPSb4eP0336a3Vfvh2Dn+soKcKepSDinhqu8ybbHWYqWx3Sd+I+XvRRTq7icI1V5nRAlltxlSUpG7kVpR/PDRRRSwY//2Q==" width="36" height="36" alt="" />
                     </section>
                 </div>
             </section>
@@ -2794,9 +2795,9 @@
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHCAMFBP/EAC0QAAEDAwIEBQQDAQAAAAAAAAECAwQABREGIQcSMUETFCJRkSNhgdEVcaGx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgYABAUHA//EACcRAAECBAQGAwAAAAAAAAAAAAEAAgMEBRETITIzBhIxQVHBkdHh/9oADAMBAAIRAxEAPwCicaLlJtfDe6vwuYOqDbRWjqhKlgE/BI/NZYiWu9uNZctcwNLGc45CB2OO4rZGq4Ldz07NiPI8RDiRt9wQQfkCkrzU56/P25diQWmmS42+Hdl46AjG1JnDkxhyzg0Z39BaplhHdd3RQCAjUmlpEC+eTkR4jTySkk9TnOCAeh+9bFhviTEYkIBCHWw4AeoyM1EUOXLV9nuluu1pRBjBOWyHMrDg3AI7/FW2CCIccFHhkNp9Gc8u3Sq/Ez8QMcRnn6UZBwibdF3ooopSXsvhu9xhWq2vTLk8hmI2PUpVI7GuY1ysq7hY+V1gJWAXsIwQcbjPX91PeL2sv50GHGQtEJsdPc+5pS4VuXM+YhRZrkVgE5UG+frvkj5HT/grpFKoMSVl+Y35znbx+rPh1FjYtjpTzqXiO9YLemYq3CU824EFku4SM75JGdqoHCriJG17b3liIqDNYx4rBVzgj3BwKz1rcTA2YYec8o8edxTg+o7juvv/AEOw/wA56G1FJ01dG3rM7zvn6ZbbHPzj2P2qxUaCJmDZ2T+30hfUA+Ldpu1bE3opJtXEKzzISHJ/jxJKfQttTfcdxg9KKRTQp0Had8FXcZnkKM3i1wFRFvmFH8TxAM+GO9KtiuCmpjEuKwzGWpxbJQ2DyYwexJ3oors8DcalWNtuXhXqW9fr68mer6bY9LbY5Uj8U3WxpFsU15JIa2a6fn90UUDtZRN0Be/eHlKuT6iBkqydqKKKNS6//9k=" width="36" height="36" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYIBwQFA//EADIQAAEDAwIEAwQLAAAAAAAAAAECAwQABREGIQcSIkExUWETFEJxCCMyQ2JygYKRwtH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EAB0RAQEAAgIDAQAAAAAAAAAAAAABAxECEhMhMTL/2gAMAwEAAhEDEQA/AKfnS2obBcdUAKTrneZ0hopbXyqUegNjGR6719tbSHPcXnW08/IfDsEjck/xSo7f4LLb8t57DbQPNkYwEZP+Vuqti4S+6YkTZ0dQcbfUsfEk+Xp4Ux2u8IkNtknnSr4sYI+YrHJfEO2JiCY3OZ93RhkudlukjIx5AZ38K9pGo5LNriOwCHo7w9o27y7EHfv2OSaFOeLt+Wx8o8hRXlWa4Ift7alLytPSrpxuKKxzdHDLaH1iXACg5BB8qnPjfd2be0/b7dLaW446GyW1BwqZLZ5wsZOCDyYPz9a1n6RCpUXhxclwYTskP8rb6m/uUZyXD6bY/Wo2qkh8ds2YNHw3b1fbZZnpaGYDsoLdLjgQhA+M5PfGcVYDNhiNxGmohb9gG0ISFNhYIAwPDHaofrQeH+ode3G5RLFpi6TVKVhCW1EONstjbPUDypAos2fdnyqR00u43IXIQrchpmJMVFzLQQVlKUdSdh0HO1FPljiP260RIkqQubIabCXJCsJLiu5wPDeipl8td6kpWnkWAUqG4Pesc4lcGdISYkm6xYz9ukjrKYbgQ2o/kIIH7cUUUJM10PwosN7u6WJsm5ezz4IdQn+tUdpHSNj0jDVFsEBqKhQytf2nHD+JR3NFFNTUxUUUUpX/2Q==" width="36" height="36" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="36" height="36" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHCAMFBP/EAC0QAAEDAwIEBQQDAQAAAAAAAAECAwQABREGIQcSMUETFCJRkSNhgdEVcaGx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgYABAUHA//EACcRAAECBAQGAwAAAAAAAAAAAAEAAgMEBRETITIzBhIxQVHBkdHh/9oADAMBAAIRAxEAPwCicaLlJtfDe6vwuYOqDbRWjqhKlgE/BI/NZYiWu9uNZctcwNLGc45CB2OO4rZGq4Ldz07NiPI8RDiRt9wQQfkCkrzU56/P25diQWmmS42+Hdl46AjG1JnDkxhyzg0Z39BaplhHdd3RQCAjUmlpEC+eTkR4jTySkk9TnOCAeh+9bFhviTEYkIBCHWw4AeoyM1EUOXLV9nuluu1pRBjBOWyHMrDg3AI7/FW2CCIccFHhkNp9Gc8u3Sq/Ez8QMcRnn6UZBwibdF3ooopSXsvhu9xhWq2vTLk8hmI2PUpVI7GuY1ysq7hY+V1gJWAXsIwQcbjPX91PeL2sv50GHGQtEJsdPc+5pS4VuXM+YhRZrkVgE5UG+frvkj5HT/grpFKoMSVl+Y35znbx+rPh1FjYtjpTzqXiO9YLemYq3CU824EFku4SM75JGdqoHCriJG17b3liIqDNYx4rBVzgj3BwKz1rcTA2YYec8o8edxTg+o7juvv/AEOw/wA56G1FJ01dG3rM7zvn6ZbbHPzj2P2qxUaCJmDZ2T+30hfUA+Ldpu1bE3opJtXEKzzISHJ/jxJKfQttTfcdxg9KKRTQp0Had8FXcZnkKM3i1wFRFvmFH8TxAM+GO9KtiuCmpjEuKwzGWpxbJQ2DyYwexJ3oors8DcalWNtuXhXqW9fr68mer6bY9LbY5Uj8U3WxpFsU15JIa2a6fn90UUDtZRN0Be/eHlKuT6iBkqydqKKKNS6//9k=" width="36" height="36" alt="" />
                     </section>
                 </div>
             </section>
@@ -2809,6 +2810,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">param-sahai/Competitive-Programming</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6d5cd26</div>
+                                        <div class="message">Leetcode - Number with same consecutive difference</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2845,26 +2866,6 @@
                                     <div class="commit">
                                         <div class="sha">#49f9f0b</div>
                                         <div class="message">Leetcode and Codechef</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">param-sahai/Strivers-SDE-Sheet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a61314a</div>
-                                        <div class="message">Day 6</div>
                                     </div>
                                 </div>
                             </section>
@@ -3139,7 +3140,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.182751540041063 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.394934976043799 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3294,44 +3295,6 @@
                                         <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5577889447236182 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#79B8FF">
-                                                <path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/>
-                                                <path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/>
-                                            </g>
-                                            <g stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round">
-                                                <path d="M47.01 41.009h-4M45.016 39v4"/>
-                                            </g>
-                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path stroke="#79B8FF" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Deployer
-                                    <div class="value-wrapper">
-                                        <div class="value">3</div>
-                                    </div>
-                                </div>
-                                <div class="text">Repositories have been deployed 3 times</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7788944723618091 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
                                             <path d="M33.432 1.924A23.922 23.922 0 0024 0c-3.945 0-7.668.952-10.95 2.638m-9.86 9.398A23.89 23.89 0 000 24a23.9 23.9 0 002.274 10.21m3.45 5.347a23.992 23.992 0 0012.929 7.845m13.048-.664c4.43-1.5 8.28-4.258 11.123-7.848m3.16-5.245A23.918 23.918 0 0048 24c0-1.87-.214-3.691-.619-5.439M40.416 6.493a24.139 24.139 0 00-1.574-1.355" stroke="#79B8FF" stroke-linecap="round"/>
                                             <path stroke="#79B8FF" d="M4.582 33.859l1.613-7.946"/>
@@ -3366,11 +3329,50 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
+                                    <span class="gh">ranked 2.62m out of 97m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">2</div>
+                                        <div class="value">3</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 2 users</div>
+                                <div class="text">Followed by 3 users</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5577889447236182 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <g stroke="#79B8FF">
+                                                <path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/>
+                                                <path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/>
+                                            </g>
+                                            <g stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round">
+                                                <path d="M47.01 41.009h-4M45.016 39v4"/>
+                                            </g>
+                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path stroke="#79B8FF" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Deployer
+                                    <div class="value-wrapper">
+                                        <div class="value">3</div>
+                                    </div>
+                                </div>
+                                <div class="text">Repositories have been deployed 3 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">

@@ -22,67 +22,19 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-sahai.param.2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahai.param.2002@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Param%20Sahai-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paramsahai/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@Alpha123xy-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alpha123xy "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@alphaparam-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=alphaparam "Follow on Twitter")
-[![Whatsapp Badge](https://img.shields.io/badge/-Param-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8173853738?text=Hi!)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-I am a junior Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.in/), pursuing my Bachelors in Computer Science, who has a knack for Problem Solving and passionate about Open Source Pr:octocat:, Web Development :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
-
-- 🌱 I’m currently learning [React](https://trainings.internshala.com/react-course/) and [DSA](https://www.youtube.com/c/takeUforward)
-- 👯 I’m looking for new opportunities and collaborate on Web Development projects and gaining new skills.
-- 💬 Wanna talk Science? Wanna talk about Vsauce(s) videos? or heck! anything crazy? Just drop me a message and lets chat!
-- 📫 How to reach me: Use any of the [badges](#hi-there-im-Param-) above
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+A SWE, who has a knack for Problem Solving and passionate about Open Source Pr :octocat:, Web Development :atom:, Generative Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
 
 ## Technologies⚙️
-
-💪 Currently Learning:
-
-&emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-oringe?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-
-<!--![Database](https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=Database)-->
-
-🧠 Plan to Study:
-
-&emsp;&emsp;
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
-
-🧰 Commonly used tools:
-
-&emsp;&emsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23239120.svg?style=flat-square&logo=Google%20Cloud&logoColor=white)
 
 <!--![Sublime](https://img.shields.io/badge/Sublime-0078D6?style=flat-square&logo=Sublime&logoColor=white)-->
 
 <!-- Gif -->
 <div align="center">
+  <img alt="GenAI" src="https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/inline-tsrs-700.gif" title="GenAI">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
